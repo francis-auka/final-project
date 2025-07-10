@@ -3,6 +3,8 @@
 
 A comprehensive platform for Kenyan university students to trade skills, post tasks, and earn through peer collaboration. Connect with fellow students, solve problems together, and build your campus reputation!
 
+🔗 **Live Demo:** [Campus Hub](https://effulgent-tarsier-3723cb.netlify.app/)
+
 ## 🌟 Features Overview
 
 ### 🔐 Authentication & User Management
