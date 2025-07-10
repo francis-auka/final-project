@@ -246,9 +246,7 @@ This project welcomes contributions! Please ensure all changes maintain the exis
 - Database security with RLS
 - User experience consistency
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
